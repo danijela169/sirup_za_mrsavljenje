@@ -1,6 +1,6 @@
 (ns sirupi.core-test
   (:require [clojure.test :refer :all]
-            [dacule.core :refer :all]))
+            [sirupi.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
